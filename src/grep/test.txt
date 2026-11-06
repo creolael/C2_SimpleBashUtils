@@ -1,0 +1,9 @@
+Hello world
+School 21 is a great place
+C programming is awesome
+hello from Andijan
+unix utilities
+TESTING uppercase and lowercase
+12345 numbers test
+another line with Hello
+end of file
